@@ -1,0 +1,128 @@
+@media (max-width:991px) {
+
+.contaner{padding: 0 2%;}   
+
+.forth-df{flex-direction: column;}
+
+.forth-left{width: 100%;}
+
+.forth-right{width: 100%;}
+
+.forth-left{margin-bottom: 50px;}
+
+.heading span{font-size: 30px; padding: .5rem 1rem;}
+
+.width{width: 100%;}
+
+.eight-item{width: 48%;}
+
+.nine-df{flex-direction: column;}
+
+.nine-left{width: 100%; margin-bottom: 30px;}
+
+.nine-left p{width: 100%;}
+
+.nine-right{width: 100%;}
+
+.ten-df{flex-direction: column; row-gap: 20px;}
+
+.ten-item{width: 100%;}
+
+.eleven-df{flex-direction: column;}
+
+.eleven-item{width: 100%;margin-bottom: 20px;}
+
+.eleven-item p{width: 100%;}
+
+.baro-df{flex-flow: wrap; justify-content: center;}
+
+.baro-item{width: 45%;}
+
+
+}
+
+
+
+
+
+
+@media (max-width:691px) {
+.top-midle{display: none;}
+.top{box-shadow:0 .5rem 1rem rgba(0,0,0,.1);}
+
+.fifth-df{flex-flow: wrap;}
+
+.fifth-item{width: 40%;}
+
+.eight-item{width: 100%;}
+}
+
+
+
+
+
+@media (max-width:529px) {
+
+.second{display: none;}
+
+.bottom-nav{display: block;}
+
+form{width: 100%; margin: 0 10px; padding: 2rem 10px;}
+
+.item img{height: 17rem;}
+
+.forth{margin-top: 0;}
+
+.forth-left h3{font-size: 46px;}
+
+.forth-left p{text-align: justify;}
+
+.top{position: fixed; top: 0; left: 0; right: 0; z-index: 7000;}
+
+.forth-left{padding-top: 60px;}
+
+.baro-item{width: 100%;}
+
+.bottom{margin-top: 40px;}
+
+.bottom i{width: 50px; height: 50px; line-height: 50px; font-size: 19px;}
+
+
+}
+
+
+@media (max-width:411px){
+.fifth-item{width: 100%; margin-bottom: 30px;}
+
+.fifth-item i{font-size: 40px;}
+
+.fifth-item h3{font-weight: bold; font-size: 30px;}
+
+.fifth-item p{font-size: 22px;}
+
+.pic img{height: 25rem;}
+
+.eight-item{padding:10px;}
+
+.eight-pic img{height: 10rem;}
+
+.eight h1 span{padding: .5rem 10px; font-size: 35px;}
+
+.ten-item p{font-size: 18px; width: 100%; margin-bottom: 20px;}
+
+.ten-item h3{margin-bottom: 10px; font-size: 25px;}
+
+.ten h1 span{padding: .5rem .5rem; font-size: 2rem;}
+
+.eleven-item p{font-size: 15px;}
+
+.eleven-pic{height: 15rem;}
+
+.eleven h1 span{padding: .5rem .6rem; font-size: 2rem;}
+}
+
+
+
+@media (max-width:367px){
+.bottom-nav a{font-size: 22px; padding: 15px 12px;}
+}
